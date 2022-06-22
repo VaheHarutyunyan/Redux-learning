@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.links {
+  margin: 10px 0;
+  border: 1px solid #282c34;
+  padding: 5px;
+}
+.links a {
+  text-decoration: none;
+  margin: 0 5px;
+  color: #282c34;
+  text-transform: uppercase;
+}
+.links a:active {
+  color: #61dafb;
+}
